@@ -30,11 +30,13 @@ body{
     justify-content: center;
     flex-direction: column;
     margin: 0 400px;
-    min-width: 500px;
+    min-width: 600px;
+    min-height: 300px;
     max-width: 1000px;
-    background-image: linear-gradient(rgb(32, 214, 86), rgb(245, 248, 79));
+    background-image: url(Bienvenue.jpg);
+    /*background-image: linear-gradient(rgb(32, 214, 86), rgb(245, 248, 79));*/
     border-radius: 20px;
-    padding: 20px;
+    padding: 30px;
 }
 /* header */
 
